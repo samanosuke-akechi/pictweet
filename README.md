@@ -1,24 +1,7 @@
-# README
-
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+# アプリケーション概要
+TECH CAMPのカリキュラムで作成したアプリケーション。  
+画像とテキストを投稿してDB（MySQL）に保存する。  
+保存した画像とテキストはトップページで一覧表示される。  
+投稿へのコメント機能もある。  
+その他、ユーザー管理機能や曖昧検索、編集・削除機能などもある。  
+デプロイはしていない。
